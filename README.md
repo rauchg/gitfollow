@@ -19,13 +19,13 @@ Place gitfollow in your header
 	
 	<script src="gitfollow.js" type="text/javascript"></script>
 
-Place a link with `class="gitfollow"` wherever you want your GitHub count to be rendered
+Place a link with `class="gitfollow"` wherever you want your GitHub count to be rendered. Make sure the link points to your GitHub profile page.
 
-	<a href="http://github.com/rauchg" class="gitfollow"></a>
+	<a href="http://github.com/Guille" class="gitfollow"></a>
 	
 If you want a smaller one try
 
-	<a href="http://github.com/rauchg" class="gitfollow small"></a>
+	<a href="http://github.com/Guille" class="gitfollow small"></a>
 	
 and that's it!
 	
