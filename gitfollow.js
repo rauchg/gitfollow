@@ -1,3 +1,15 @@
+/*
+---
+name: gitfollow.js
+
+description: Styles and populates a link with the GitHub follower count.
+
+author: [Guillermo Rauch](http://devthought.com)
+
+license: MIT-style
+...
+*/
+
 (function(){
   
   window.gitfollow = {
