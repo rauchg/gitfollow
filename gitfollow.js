@@ -8,7 +8,7 @@
     styles: [
       '.gitfollow { background: #fafafa; background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fbfbfb), to(#ccc)); font: 11px "Lucida Grande", Verdana; outline: 0px; -webkit-box-shadow: rgba(0, 0, 0, 0.6) 0px 1px 3px; -moz-box-shadow: rgba(0, 0, 0, 0.2) 0px 1px 3px; font-weight: bold; line-height: 1; cursor: pointer; position: relative; text-decoration: none; width: auto; border-bottom-color: rgba(0, 0, 0, 0.3); -moz-border-radius: 15px; -webkit-border-radius: 15px; padding: 4px 14px 6px; color: #4183C4; text-shadow: 0 1px 0 #fff; }',
       '.gitfollow:active { top: 1px; }',
-      '.gitfollow:hover { background: #eee }',
+      '.gitfollow:hover { background: #eee; text-decoration: none }',
       '.gitfollow img { vertical-align: middle; padding-right: 5px; border: none }',
       '.gitfollow.small { padding: 2px 14px 4px }'
     ],
